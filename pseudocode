@@ -1,0 +1,51 @@
+Part 1
+num1, num2
+3,4
+
+num1= input(3)
+num2= input(4)
+
+result = num1*num2
+
+print(12+num1+num2+19+ result)
+
+
+Part 2
+Read isfive
+If(iffive = 5)
+Write "your number is 5"
+Else if(iffive =6)
+Wite "your number is 6"
+Else
+Write "your number is not 5 or 6"
+
+
+Part 3
+input num
+if num>=0 AND num <10 THEN
+PRINT 'BLUE'
+ELSE IF num>10 AND num <20 THEN
+PRINT 'RED'
+ELSE IF num> 20 AND num <30 THEN
+PRINT 'GREEN'
+ELSE
+PRINT 'IT IS NOT A CORRECT COLOR OPTION.'
+
+
+Part 4
+For num:=1 to 100 Do
+If num%5= 0 Then
+Print num
+End If
+N++
+end loop
+
+
+Part 5
+S =input
+N = 0
+loop until N >=S
+N = N+2
+Output N
+
+End loop.
